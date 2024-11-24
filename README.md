@@ -1,4 +1,4 @@
-<h1 align="center">ssup 👋, I'm Samar</h1>
+<h1 align="center">Hey 👋, I'm Samar</h1>
 <hr>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
@@ -38,13 +38,6 @@
 <hr>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=samardotexe&label=Profile%20views&color=0e75b6&style=flat" alt="samardotexe" /> </p>
 <hr>
-- 👋 Hi, I’m @samardotexe
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 samardotexe/samardotexe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
