@@ -32,7 +32,6 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samardotexe&show_icons=true&locale=en&layout=compact" alt="samardotexe"/></p>
 <hr>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samardotexe&show_icons=true&locale=en" alt="samardotexe" /></p>
-
 <hr>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samardotexe" alt="samardotexe" /></a> </p>
 <hr>
