@@ -12,7 +12,6 @@ Hey ðŸ‘‹, I'm Samar<br><br>A passionate Full Stack Developer from India<br><br>ð
 
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hehesamarr&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<br/>
 ![](https://github-readme-stats.vercel.app/api?username=hehesamarr&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=hehesamarr&theme=synthwave&hide_border=false)
 
